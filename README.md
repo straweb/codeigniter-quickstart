@@ -2,6 +2,8 @@
 php codeigniter with enhanced basic functionality for quick start a new project.
 
 [![Build Status](https://travis-ci.org/straweb/codeigniter-quickstart.svg)](https://travis-ci.org/straweb/codeigniter-quickstart)
+[![Coverage Status](https://coveralls.io/repos/straweb/codeigniter-quickstart/badge.svg)](https://coveralls.io/r/straweb/codeigniter-quickstart)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/straweb/codeigniter-quickstart/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/straweb/codeigniter-quickstart/?branch=master)
 
 built on the top of codeigniter framework and extended with various other third party frontend/backend libraries/techonlogies. 
 This will help developers to have a kick-ass quick start along their way to better managed web application development.

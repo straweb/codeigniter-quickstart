@@ -1,7 +1,23 @@
 {
-	"require": {
+    "name": "straweb/CodeIgniter-quickstart",
+    "type": "library",
+    "description": "php codeigniter with enhanced basic functionality for quick start a new project. Built on the top of codeigniter framework and extended with various other third party frontend/backend libraries/technologies. This will help developers to have a kick-ass quick start along their way to better managed web application development.",
+    "keywords": ["CodeIgniter","quickstart"],
+    "homepage": "http://github.com/straweb/CodeIgniter-quickstart",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thulasiram Seelamsetty",
+            "email": "thulasiram.soft@gmail.com",
+            "homepage": "http://thulasiram.straweb.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
     },
     "require-dev": {
     },
     "minimum-stability": "dev"
+    "autoload": {
+    }
 }
