@@ -1,4 +1,6 @@
 # codeigniter-quickstart
+
+[![Join the chat at https://gitter.im/straweb/codeigniter-quickstart](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/straweb/codeigniter-quickstart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 php codeigniter with enhanced basic functionality for quick start a new project.
 
 [![Build Status](https://travis-ci.org/straweb/codeigniter-quickstart.svg)](https://travis-ci.org/straweb/codeigniter-quickstart)
