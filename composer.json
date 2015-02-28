@@ -12,12 +12,18 @@
             "homepage": "http://thulasiram.straweb.com"
         }
     ],
+	"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/straweb/CodeIgniter-quickstart.git"
+        }
+    ],
     "require": {
         "php": ">=5.3.0"
     },
     "require-dev": {
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
     "autoload": {
     }
 }
